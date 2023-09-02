@@ -7,7 +7,7 @@
     <?php
 
     // try to provide you the simple Solution of your problem and i only thing need to inform you that i am just started php so if any thing which i forget right now i will understand with the help of internet.
-    // due to the external we cam in my laptop i can not give you the commplete recording because i tried many times but whenever wire looses connection get lost show hope this recording will give you the exact idea what i want to convey to you.
+    // due to the external web cam in my laptop i can not give you the commplete recording because i tried many times but whenever wire looses connection get lost show hope this recording will give you the exact idea what i want to convey to you.
     require 'vendor/autoload.php';
 
     $fullname = $phone = $email = $subject = $message = "";
